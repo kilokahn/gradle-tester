@@ -1,0 +1,5 @@
+dependencies {
+    compile  project(':foo-common')
+    compile 'commons-codec:commons-codec'
+    compile 'commons-lang:commons-lang'
+}
