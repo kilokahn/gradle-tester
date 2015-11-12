@@ -1,0 +1,12 @@
+{
+  "1.0": {
+    "project_path": ":foo-common",
+    "project_dir": "/codemill/baigm/github/gradle-tester/foo-parent/foo-common",
+    "connection_project_dir": "/codemill/baigm/github/gradle-tester/foo-parent",
+    "connection_gradle_user_home": null,
+    "connection_gradle_distribution": "GRADLE_DISTRIBUTION(WRAPPER)",
+    "connection_java_home": null,
+    "connection_jvm_arguments": "",
+    "connection_arguments": ""
+  }
+}
